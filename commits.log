@@ -1,0 +1,98 @@
+commit 3086aaa111a99e5680e94ebcbd8ad464253c47f5
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Thu Dec 22 17:13:40 2022 -0500
+
+    Agregando dos parrafos
+
+commit 13cc77590d38a3e70fd95ae4e0240766bacb85bf
+Merge: bf3d85a d11fc1d
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Thu Dec 22 17:08:24 2022 -0500
+
+    Resolviendo conflicto en estacones del año con fecha de inicio
+
+commit bf3d85aad5c27e9187c6738d24f4038f8bf2cb7a
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Thu Dec 22 16:08:43 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit d11fc1d4d7c6df537c0a0f7e7c667b6caaa9462b
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Thu Dec 22 16:08:43 2022 -0500
+
+    Agregando las estaciones del año
+
+commit de78f4daf92c02650c65c5a79846f39a17b6bc0b
+Merge: 875f374 51ce76c
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Thu Dec 22 15:09:23 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 51ce76cdfc84784a6c8ef75e2befe56b86ea4be9
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Thu Dec 22 14:57:26 2022 -0500
+
+    Agregando index.js al index html
+
+commit 875f374e828498f89e22800d09413ee70b822022
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Thu Dec 22 14:54:36 2022 -0500
+
+    Agregando style.css al index.html
+
+commit ab2dc353a548d201b4762330a70c40a551d95e47
+Merge: a7d74cd fa16c9c
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Thu Dec 22 14:20:35 2022 -0500
+
+    Merge branch 'js'
+
+commit fa16c9c9a6e14f9dfc5c11bc7445a1873e64446b
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Thu Dec 22 13:56:09 2022 -0500
+
+    Creando index.js
+
+commit a7d74cdff3e500fd9b945ae773eb6ef285636441
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Thu Dec 22 13:45:40 2022 -0500
+
+    Creando style.css
+
+commit a4fbae673f112ac7070b90fb8e8c3e2703942647
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Wed Dec 21 16:30:38 2022 -0500
+
+    Creando index.html
+
+commit 018671ab4f3d2d97d17316c0eeb9db237c01625a
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Tue Dec 20 17:48:16 2022 -0500
+
+    Ignoarando archivos .exe
+
+commit 231ea887b29208eab04eeb857b9ebd8eb92892e4
+Author: Jeanpaul417 <120842138+Jeanpaul417@users.noreply.github.com>
+Date:   Tue Dec 20 16:24:22 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 7608507072720cb2cb21350489728f3cd4a93fe9
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Tue Dec 20 15:54:50 2022 -0500
+
+    Agregando mas contenido al README
+
+commit 6de758b3d6184a4e2a2834a52f89a07ca978cc43
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Tue Dec 20 13:57:31 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 940d20652c3d6a45acf869c70ae1f2a6a2274dbe
+Author: Juan Pablo Giraldo <juanpabloint@gmail.com>
+Date:   Tue Dec 20 13:47:09 2022 -0500
+
+    Primer commit 😃
